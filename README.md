@@ -1,3 +1,15 @@
-# Projeto simples feito para estudar os fundamentos básicos do React.
+## Projeto simples desenvolvido para estudar os fundamentos básicos do React
 
-* Para utilizar, faça o download deste repositório em sua máquina, execute o comando npm install e em seguida npm run dev.
+## Instalação
+
+Use o gerenciador de pacotes de sua preferência (npm, yarn, etc.) para instalar todas as dependências
+
+```bash
+npm install
+```
+
+## Rodando o projeto
+
+```bash
+npm run dev
+```
