@@ -1,4 +1,4 @@
-## Projeto simples desenvolvido para estudar os fundamentos básicos do React
+## Projeto simples de lista de presença desenvolvido para estudar os fundamentos básicos do React
 
 ## Instalação
 
