@@ -1,4 +1,4 @@
-### Projeto simples de lista de presença desenvolvido no Discover da Rocketseat para estudar os fundamentos básicos do React JS
+### Projeto simples de Lista de Presença desenvolvido no Discover da Rocketseat para estudar os fundamentos básicos do React JS
 
 ### Instalação
 
